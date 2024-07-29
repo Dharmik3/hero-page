@@ -1,0 +1,45 @@
+.listContainer {
+  margin-top: 2rem;
+  background-color: #fff;
+  border-radius: 1rem;
+  padding: 1.25rem;
+  max-height: 21.8125rem;
+  overflow: auto;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 0.875rem;
+}
+
+tr:first-child {
+  background-color: #f6f7f8;
+}
+
+th:first-child {
+  border-radius: 1.5rem 0 0 1.5rem;
+  padding-left: 1rem;
+}
+
+th:last-child {
+  border-radius: 0 1.5rem 1.5rem 0;
+}
+
+th {
+  padding: 1rem 0;
+  text-align: left;
+}
+
+td {
+  padding: 1rem 0;
+  border-bottom: 0.03125rem solid rgb(224, 224, 224);
+}
+
+td:first-child {
+  padding-left: 1rem;
+}
+
+tr {
+  color: #072635;
+}

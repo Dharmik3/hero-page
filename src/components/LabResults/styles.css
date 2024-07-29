@@ -1,0 +1,26 @@
+.labResultsContainer {
+  background-color: #fff;
+  margin-top: 2rem;
+  padding: 1.25rem;
+  border-radius: 1rem;
+}
+
+.testRow {
+  display: flex;
+  justify-content: space-between;
+  padding: 0.6875rem 1rem;
+  margin-bottom: 0.3125rem;
+}
+
+.testRow:hover {
+  background-color: #f6f7f8;
+}
+
+.testName {
+  font-size: 0.8125rem;
+  color: #072635;
+}
+
+.downloadImg {
+  cursor: pointer;
+}

@@ -1,0 +1,23 @@
+.cardContainer {
+  padding: 1rem;
+  border-radius: 0.75rem;
+  width: 14.25rem;
+}
+
+.title {
+  margin-top: 1rem;
+  font-size: 1rem;
+  color: #072635;
+}
+
+.rate {
+  font-size: 1.875rem;
+  font-weight: 800;
+  color: #072635;
+}
+
+.label {
+  margin-top: 1rem;
+  font-size: 0.875rem;
+  color: #072635;
+}

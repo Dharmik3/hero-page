@@ -1,0 +1,91 @@
+.nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #fff;
+  border-radius: 4.375rem;
+  height: 4.5rem;
+  padding: 12px 32px;
+}
+
+.logoImg {
+  width: 211px;
+  height: 48px;
+}
+
+.linksContainer {
+  background-color: #fff;
+  display: flex;
+  align-items: center;
+  list-style: none;
+  gap: 2.5rem;
+}
+
+.link {
+  display: flex;
+  gap: 0.5625rem;
+  background-color: #fff;
+  font-size: 14px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.linkActive {
+  background-color: #01f0d0;
+  border-radius: 41px;
+  padding: 12px 16px;
+}
+
+.linkIcon {
+  width: 1rem;
+  height: 1rem;
+}
+
+.profile {
+  display: flex;
+  gap: 8px;
+}
+
+.doctorPic {
+  width: 44px;
+  height: 44px;
+}
+
+.nameSection {
+  display: flex;
+  flex-direction: column;
+
+  justify-content: center;
+}
+
+.name {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.designation {
+  color: #707070;
+  font-size: 14px;
+}
+
+.verticalLine {
+  width: 1px;
+  background-color: #cbc8d4;
+  margin-left: 4px;
+}
+
+.settings {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.setting {
+  width: 20px;
+  height: 20px;
+}
+
+.moreVertical {
+  width: 4px;
+  height: 18px;
+}

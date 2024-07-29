@@ -1,0 +1,46 @@
+.sidebarContainer {
+  display: flex;
+  flex-direction: column;
+  background-color: #fff;
+  border-radius: 16px;
+  width: 367px;
+  padding: 20px;
+  margin-top: 32px;
+  max-height: 1054px;
+  overflow-y: auto;
+}
+.sidebarHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 40px;
+}
+
+.headerName {
+  font-size: 24px;
+  font-weight: 800;
+}
+
+.patientsProfileContainer {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 32px;
+}
+.more {
+  margin-left: auto;
+}
+
+.name {
+  font-size: 14px;
+  font-weight: bold;
+  margin-bottom: 4px;
+}
+.age {
+  color: #707070;
+  font-size: 14px;
+}
+
+.activePatient{
+  background-color: #D8FCF7;
+}

@@ -1,0 +1,13 @@
+.mainContainer {
+  display: flex;
+  gap: 2.0625rem;
+  margin-left: 2rem;
+}
+
+.leftContainer {
+  margin-top: 2.25rem;
+}
+
+.rightConatiner {
+  margin-top: 1.125rem;
+}
