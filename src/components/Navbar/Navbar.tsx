@@ -1,4 +1,3 @@
-import React from "react";
 import Logo from "../../assets/logo.svg";
 import Home from "../../assets/home.svg";
 import Card from "../../assets/card.svg";

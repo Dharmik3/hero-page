@@ -1,4 +1,3 @@
-import React from "react";
 import DiagnosisHistory from "../components/DiagnosisHistory/DiagnosisHistory";
 import DiagnosisList from "../components/DiagnosisList/DiagnosisList";
 

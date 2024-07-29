@@ -1,4 +1,3 @@
-import React from "react";
 import rate from "../../assets/rate.svg";
 import heart from "../../assets/heart.svg";
 import tempratureIcon from "../../assets/temperature.svg";

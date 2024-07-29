@@ -1,4 +1,3 @@
-import React from "react";
 import Search from "../../assets/search.svg";
 import "./styles.css";
 import SidebarPatient from "./SidebarPatient";

@@ -1,5 +1,3 @@
-import React from "react";
-import rate from "../../assets/rate.svg";
 import "./styles.css";
 
 export interface CardType {

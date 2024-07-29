@@ -1,4 +1,3 @@
-import React from "react";
 import download from "../../assets/download.svg";
 import "./styles.css";
 export interface LabResultsType {

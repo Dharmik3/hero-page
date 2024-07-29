@@ -1,5 +1,3 @@
-import React from "react";
-import profile from "../../assets/profile.png";
 import { infoData } from "../../data/infoData";
 import "./styles.css";
 import InfoCard from "./InfoCard";
